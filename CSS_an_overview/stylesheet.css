@@ -1,0 +1,51 @@
+h1{
+    font-family: Verdana,sans-serif;
+    color: #576D94;
+}
+
+p {
+    font-family: Garamond,serif;
+    font-size: 18px;
+    color: #4A4943;
+}
+
+img {
+    height: 100px;
+    width: 300px;
+    border: 1px solid #4682b4;
+}
+
+div {
+    height: 50px;
+    width: 120px;
+    border-color: #6495ED;
+    border-style: none;
+    border-width: 2px;
+    background-color: #BCD2EE;
+    border-radius: 12px;
+    margin: auto;
+    text-align: center;
+    padding-top: 8px
+}
+
+a {
+    text-decoration: none;
+    color: #4C1A4C;
+    font-family: Verdana,serif;  
+}
+
+.botongo:hover {
+    background-color: red;
+}
+
+a:link:{
+    text-decoration: none;
+    color: black;
+    font-family: Verdana,serif;
+}
+
+a:visited {
+    color: red;
+    font-size: 40px;
+
+}
