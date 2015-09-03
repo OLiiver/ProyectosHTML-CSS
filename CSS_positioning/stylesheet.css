@@ -1,0 +1,51 @@
+*{
+
+	border: 1px dashed black;
+}
+
+div{
+
+	margin-left: 20px;
+}
+
+div div {
+	height: 50px;
+	width: 100px;
+	margin-bottom: 10px;
+	border: 2px solid black;
+	border-radius: 5px;
+	display: inline-block;
+	
+}
+
+#one {
+	background-color: #FF0000;/* rojo */
+	position: absolute;
+	margin-top: 20px;
+	margin-left: 200px;
+}
+
+#two {
+	background-color: #0000FF; /* azul */
+	position: static;
+
+	
+}
+
+#three {
+	background-color: #FFD700; /* amarillo */
+	position: relative;
+	
+}
+
+#four {
+	background-color: #308014; /* verde */
+
+}
+
+.footer {
+	background-color: blue;
+	height: 50px;
+	clear: both;
+	border-radius: 10px;
+}
